@@ -2,10 +2,10 @@
   "name": "nodejs-learning-journey",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "01-fs/fs.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node 01-fs/fs.js",
+    "dev": "nodemon 01-fs/fs.js"
   },
   "repository": {
     "type": "git",
