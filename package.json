@@ -2,10 +2,10 @@
   "name": "nodejs-learning-journey",
   "version": "1.0.0",
   "description": "",
-  "main": "02-path/path.js",
+  "main": "03-http/01-server.js",
   "scripts": {
-    "start": "node 02-path/path.js",
-    "dev": "nodemon 02-path/path.js"
+    "start": "node 03-http/01-server.js",
+    "dev": "nodemon 03-http/01-server.js"
   },
   "repository": {
     "type": "git",
